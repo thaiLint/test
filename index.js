@@ -31,3 +31,13 @@ function showData([obj1,obj2,obj3]){
     return `${obj1} ${obj2} ${obj3}`;
 }
 console.log(showData(arr));
+const array=["Daily","Rose","Tulip"];
+function showData([obj1,obj2,obj3]){
+    return `${obj1} ${obj2} ${obj3}`;
+}
+console.log(showData(arr));
+function5();
+
+function calculate(parameter5) {
+    console.log(parameter5 * 0.5);
+}
